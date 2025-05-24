@@ -88,7 +88,7 @@ Output Evaluate result:
 ![alt text](images/img_result.png "Evaluation Result of the Evaluate Pipeline")
 
 - Deployment Pipeline
-- ![alt text](images/img_5.png "The Newly Created Stack for Model Deployment")
+![alt text](images/img_5.png "The Newly Created Stack for Model Deployment")
 
 ## Deployment
 ```bash
